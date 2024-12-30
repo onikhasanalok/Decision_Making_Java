@@ -26,3 +26,6 @@ This Java program demonstrates decision-making constructs like `if-else` and `sw
 - **Conditional Statements (`if-else`)** for decision-making.
 - **Switch Statements** for handling multiple conditions.
 - **String Comparison** using `String.equals()`.
+
+##Output Snap Here:
+![Decision_Problempng](https://github.com/user-attachments/assets/86f56408-e840-4ab5-af72-e3f8c8e73b88)
